@@ -1,1 +1,2 @@
-# cg_andropogon
+# Investigating environmental adaptation in *Andropogon gerardi*
+
